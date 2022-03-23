@@ -11,7 +11,7 @@ Welcome to The Facebook Project. It aims to provide the following functionalitie
     * View all profiles
     * Search profiles
     * Sort profiles by names
-    * Create timeline
+   
 
 ## Software required
 > Java 1.8
